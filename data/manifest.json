@@ -1,0 +1,113 @@
+{
+	"updated": "2026-08-14",
+	"servers": {
+		"atlanta": {
+			"file": "data/atlanta.json",
+			"codes": 28,
+			"size_kb": 949,
+			"date": "2026-08-14"
+		},
+		"boston": {
+			"file": "data/boston.json",
+			"codes": 40,
+			"size_kb": 1799,
+			"date": "2026-08-14"
+		},
+		"chicago": {
+			"file": "data/chicago.json",
+			"codes": 34,
+			"size_kb": 1065,
+			"date": "2026-08-14"
+		},
+		"dallas": {
+			"file": "data/dallas.json",
+			"codes": 29,
+			"size_kb": 1347,
+			"date": "2026-08-14"
+		},
+		"denver": {
+			"file": "data/denver.json",
+			"codes": 35,
+			"size_kb": 1645,
+			"date": "2026-08-14"
+		},
+		"detroit": {
+			"file": "data/detroit.json",
+			"codes": 33,
+			"size_kb": 1355,
+			"date": "2026-08-14"
+		},
+		"lasvegas": {
+			"file": "data/lasvegas.json",
+			"codes": 31,
+			"size_kb": 1277,
+			"date": "2026-08-14"
+		},
+		"losangeles": {
+			"file": "data/losangeles.json",
+			"codes": 31,
+			"size_kb": 1571,
+			"date": "2026-08-14"
+		},
+		"memphis": {
+			"file": "data/memphis.json",
+			"codes": 32,
+			"size_kb": 1572,
+			"date": "2026-08-14"
+		},
+		"miami": {
+			"file": "data/miami.json",
+			"codes": 21,
+			"size_kb": 1504,
+			"date": "2026-08-14"
+		},
+		"newyork": {
+			"file": "data/newyork.json",
+			"codes": 33,
+			"size_kb": 1756,
+			"date": "2026-08-14"
+		},
+		"orlando": {
+			"file": "data/orlando.json",
+			"codes": 33,
+			"size_kb": 1705,
+			"date": "2026-08-14"
+		},
+		"phoenix": {
+			"file": "data/phoenix.json",
+			"codes": 27,
+			"size_kb": 1394,
+			"date": "2026-08-14"
+		},
+		"portland": {
+			"file": "data/portland.json",
+			"codes": 32,
+			"size_kb": 1654,
+			"date": "2026-08-14"
+		},
+		"sandiego": {
+			"file": "data/sandiego.json",
+			"codes": 39,
+			"size_kb": 1528,
+			"date": "2026-08-14"
+		},
+		"sanfrancisco": {
+			"file": "data/sanfrancisco.json",
+			"codes": 32,
+			"size_kb": 1088,
+			"date": "2026-08-14"
+		},
+		"seattle": {
+			"file": "data/seattle.json",
+			"codes": 21,
+			"size_kb": 1435,
+			"date": "2026-08-14"
+		},
+		"washington": {
+			"file": "data/washington.json",
+			"codes": 15,
+			"size_kb": 536,
+			"date": "2026-08-14"
+		}
+	}
+}
