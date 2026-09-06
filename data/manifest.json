@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T14:26:39Z",
+ "updated": "2026-09-06T14:30:32Z",
  "date": "2026-09-06",
  "servers": {
   "atlanta": {
@@ -22,8 +22,8 @@
   },
   "dallas": {
    "file": "data/dallas.json",
-   "codes": 35,
-   "size_kb": 1792,
+   "codes": 34,
+   "size_kb": 1734,
    "date": "2026-09-06"
   },
   "denver": {
