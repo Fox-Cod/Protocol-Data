@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-31T12:39:14Z",
+ "updated": "2026-10-31T14:59:26Z",
  "date": "2026-10-31",
  "servers": {
   "atlanta": {
    "file": "data/atlanta.json",
    "codes": 33,
-   "size_kb": 1318,
+   "size_kb": 1320,
    "date": "2026-10-31"
   },
   "boston": {
    "file": "data/boston.json",
    "codes": 42,
-   "size_kb": 1969,
+   "size_kb": 1972,
    "date": "2026-10-31"
   },
   "chicago": {
@@ -23,91 +23,91 @@
   "dallas": {
    "file": "data/dallas.json",
    "codes": 35,
-   "size_kb": 1826,
+   "size_kb": 1926,
    "date": "2026-10-31"
   },
   "denver": {
    "file": "data/denver.json",
-   "codes": 56,
-   "size_kb": 2723,
+   "codes": 53,
+   "size_kb": 2489,
    "date": "2026-10-31"
   },
   "detroit": {
    "file": "data/detroit.json",
-   "codes": 34,
-   "size_kb": 1375,
+   "codes": 33,
+   "size_kb": 1321,
    "date": "2026-10-31"
   },
   "houston": {
    "file": "data/houston.json",
    "codes": 59,
-   "size_kb": 2989,
+   "size_kb": 2850,
    "date": "2026-10-31"
   },
   "lasvegas": {
    "file": "data/lasvegas.json",
    "codes": 38,
-   "size_kb": 1906,
+   "size_kb": 1654,
    "date": "2026-10-31"
   },
   "losangeles": {
    "file": "data/losangeles.json",
    "codes": 36,
-   "size_kb": 2122,
+   "size_kb": 2131,
    "date": "2026-10-31"
   },
   "memphis": {
    "file": "data/memphis.json",
-   "codes": 55,
-   "size_kb": 3249,
+   "codes": 40,
+   "size_kb": 2435,
    "date": "2026-10-31"
   },
   "miami": {
    "file": "data/miami.json",
    "codes": 28,
-   "size_kb": 1612,
+   "size_kb": 1619,
    "date": "2026-10-31"
   },
   "newyork": {
    "file": "data/newyork.json",
-   "codes": 37,
-   "size_kb": 2233,
+   "codes": 36,
+   "size_kb": 2176,
    "date": "2026-10-31"
   },
   "orlando": {
    "file": "data/orlando.json",
    "codes": 35,
-   "size_kb": 1840,
+   "size_kb": 1970,
    "date": "2026-10-31"
   },
   "phoenix": {
    "file": "data/phoenix.json",
    "codes": 28,
-   "size_kb": 1429,
+   "size_kb": 1422,
    "date": "2026-10-31"
   },
   "portland": {
    "file": "data/portland.json",
-   "codes": 34,
-   "size_kb": 1757,
+   "codes": 32,
+   "size_kb": 1690,
    "date": "2026-10-31"
   },
   "rules": {
    "file": "data/rules.json",
    "codes": 20,
-   "size_kb": 373,
+   "size_kb": 357,
    "date": "2026-10-31"
   },
   "sandiego": {
    "file": "data/sandiego.json",
    "codes": 56,
-   "size_kb": 2265,
+   "size_kb": 2375,
    "date": "2026-10-31"
   },
   "sanfrancisco": {
    "file": "data/sanfrancisco.json",
    "codes": 30,
-   "size_kb": 1249,
+   "size_kb": 1389,
    "date": "2026-10-31"
   },
   "seattle": {
@@ -118,8 +118,8 @@
   },
   "washington": {
    "file": "data/washington.json",
-   "codes": 33,
-   "size_kb": 1285,
+   "codes": 31,
+   "size_kb": 1241,
    "date": "2026-10-31"
   }
  }
