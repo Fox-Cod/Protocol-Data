@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T14:36:06Z",
+ "updated": "2026-11-08T17:29:21Z",
  "date": "2026-11-08",
  "servers": {
   "atlanta": {
@@ -10,8 +10,8 @@
   },
   "boston": {
    "file": "data/boston.json",
-   "codes": 42,
-   "size_kb": 1933,
+   "codes": 41,
+   "size_kb": 1906,
    "date": "2026-11-08"
   },
   "chicago": {
@@ -28,8 +28,8 @@
   },
   "denver": {
    "file": "data/denver.json",
-   "codes": 56,
-   "size_kb": 2658,
+   "codes": 30,
+   "size_kb": 1532,
    "date": "2026-11-08"
   },
   "detroit": {
@@ -40,38 +40,38 @@
   },
   "houston": {
    "file": "data/houston.json",
-   "codes": 60,
-   "size_kb": 2818,
+   "codes": 33,
+   "size_kb": 1952,
    "date": "2026-11-08"
   },
   "lasvegas": {
    "file": "data/lasvegas.json",
-   "codes": 39,
-   "size_kb": 1699,
+   "codes": 27,
+   "size_kb": 1390,
    "date": "2026-11-08"
   },
   "losangeles": {
    "file": "data/losangeles.json",
-   "codes": 36,
-   "size_kb": 2121,
+   "codes": 25,
+   "size_kb": 1569,
    "date": "2026-11-08"
   },
   "memphis": {
    "file": "data/memphis.json",
-   "codes": 40,
-   "size_kb": 2399,
+   "codes": 34,
+   "size_kb": 2211,
    "date": "2026-11-08"
   },
   "miami": {
    "file": "data/miami.json",
-   "codes": 28,
-   "size_kb": 1467,
+   "codes": 27,
+   "size_kb": 1434,
    "date": "2026-11-08"
   },
   "newyork": {
    "file": "data/newyork.json",
-   "codes": 36,
-   "size_kb": 2219,
+   "codes": 35,
+   "size_kb": 1936,
    "date": "2026-11-08"
   },
   "orlando": {
@@ -94,14 +94,14 @@
   },
   "rules": {
    "file": "data/rules.json",
-   "codes": 20,
-   "size_kb": 357,
+   "codes": 19,
+   "size_kb": 344,
    "date": "2026-11-08"
   },
   "sandiego": {
    "file": "data/sandiego.json",
-   "codes": 57,
-   "size_kb": 2361,
+   "codes": 33,
+   "size_kb": 1650,
    "date": "2026-11-08"
   },
   "sanfrancisco": {
@@ -118,8 +118,8 @@
   },
   "washington": {
    "file": "data/washington.json",
-   "codes": 31,
-   "size_kb": 1210,
+   "codes": 30,
+   "size_kb": 1156,
    "date": "2026-11-08"
   }
  }
